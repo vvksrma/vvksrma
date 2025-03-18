@@ -46,6 +46,7 @@ Always open to **collaborations, discussions, and exciting projects!** Let’s c
 
 ## 🔧 Projects  
 🚀 **FewMath** - A high-performance mathematical computation library  
+🏦 **PayWise** - AI Powered smart banking application
 🔍 **[More projects coming soon!]**  
 
 ---
