@@ -4,6 +4,7 @@
 
 👨‍🎓 **Pursuing B.E. (CSE) at IET AGRA**  
 📚 Currently learning **DSA in C++**  
+📚 Currently Hacking on **Leetcode & Codeforces**  
 📩 Reach me at **vvksrmacse@gmail.com**  
 💡 Passionate about **Programming, UI/UX, Cybersecurity, Tech & AI**  
 
