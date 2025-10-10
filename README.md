@@ -11,7 +11,7 @@
 ---
 
 ## 🔥 About Me  
-I'm a **second-year Computer Science & Engineering student** with a deep curiosity for exploring new technologies. I thrive on solving complex problems, building optimized solutions, and staying up to date with advancements in the tech industry.  
+I'm a **Junior Computer Science & Engineering student** with a deep curiosity for exploring new technologies. I thrive on solving complex problems, building optimized solutions, and staying up to date with advancements in the tech industry.  
 
 I am currently working on **FewMath**, an efficient mathematical computation library focused on speed and ease of use. 🚀  
 
